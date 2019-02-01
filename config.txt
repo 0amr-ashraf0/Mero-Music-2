@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=484869429327560704
+prefix=2
+game=2play | Mero Codes
 stayinchannel=true
-songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+songinstatus=true
+token=NTI4NjQ3NDcxNzE1NTgxOTcx.DzZThA.F4C_6oraOcknUZY-OO7dwOcLDsQ
